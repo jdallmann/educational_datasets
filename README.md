@@ -20,7 +20,9 @@ This data set is based on the UCI wine+quality dataset with columns added to pra
 ## Hypothesis testing data sets
 ### iris.csv
 From the R documentation: iris is a data frame with 150 cases (rows) and 5 variables (columns) named Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, and Species. 
+
 It is originally from:
+
 Fisher, R. A. (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7, Part II, 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x, with data collected by Anderson, Edgar (1935). The irises of the Gaspe Peninsula, Bulletin of the American Iris Society, 59, 2–5. See Becker, R. A., Chambers, J. M. and Wilks, A. R. (1988) The New S Language. Wadsworth & Brooks/Cole.
 
 ### paired_sleep.csv
@@ -32,6 +34,6 @@ From the R documentation: Student [the creator of the T-test]'s Sleep Data which
 
 The group variable name may be misleading about the data: They represent measurements on 10 persons, not in groups.
 
-It is originally from:
-Student (1908) The probable error of the mean. Biometrika, 6, 20. 
+It is originally from: Student (1908) The probable error of the mean. Biometrika, 6, 20. 
+
 See also: Cushny, A. R. and Peebles, A. R. (1905) The action of optical isomers: II hyoscines. The Journal of Physiology 32, 501–510. Scheffé, Henry (1959) The Analysis of Variance. New York, NY: Wiley.
