@@ -37,3 +37,11 @@ The group variable name may be misleading about the data: They represent measure
 It is originally from: Student (1908) The probable error of the mean. Biometrika, 6, 20. 
 
 See also: Cushny, A. R. and Peebles, A. R. (1905) The action of optical isomers: II hyoscines. The Journal of Physiology 32, 501–510. Scheffé, Henry (1959) The Analysis of Variance. New York, NY: Wiley.
+
+
+## Analysis Example Scripts
+### regression_example.R
+Regression example from lecture on the tidyverse Diamonds data set.
+
+## clustering_example.R
+Example of clustering using cereal data set from R presented in lecture.
