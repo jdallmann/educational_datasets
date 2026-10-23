@@ -43,5 +43,5 @@ See also: Cushny, A. R. and Peebles, A. R. (1905) The action of optical isomers:
 ### regression_example.R
 Regression example from lecture on the tidyverse Diamonds data set.
 
-## clustering_example.R
+### clustering_example.R
 Example of clustering using cereal data set from R presented in lecture.
